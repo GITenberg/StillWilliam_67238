@@ -1,0 +1,46 @@
+_repo: StillWilliam_67238
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Henry, Thomas
+    alias: Fisher, Thomas Henry
+    birthdate: 1879
+    deathdate: 1962
+    gutenberg_agent_id: '37009'
+    url: http://www.gutenberg.org/2009/agents/37009
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Henry_(illustrator)
+creator:
+  author:
+    agent_name: Crompton, Richmal
+    alias: Lamburn, Richmal Crompton
+    birthdate: 1890
+    deathdate: 1969
+    gutenberg_agent_id: '7152'
+    url: http://www.gutenberg.org/2009/agents/7152
+    wikipedia: https://en.wikipedia.org/wiki/Richmal_Crompton
+description: ''
+gutenberg_issued: '2022-01-23'
+identifiers:
+  gutenberg: '67238'
+language: en
+pgterms:marc905: 20211019120940crompton
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: Alan, deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: United Kingdom :George Newnes,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'William (Fictitious character from Crompton) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, English'
+- !lcsh 'Boys -- Juvenile fiction'
+- GITenberg
+tableOfContents: The bishop's handkerchief -- Henri learns the language -- The sweet
+  little girl in white -- William turns over a new leaf -- A bit of blackmail -- "William
+  the money-maker" -- The haunted house -- William the match-maker -- William's truthful
+  Christmas -- An afternoon with William -- William spoils the party -- The cat and
+  the mouse -- William and Uncle George -- William and Saint Valentine.
+title: Still—William
+url: http://www.gutenberg.org/ebooks/67238
